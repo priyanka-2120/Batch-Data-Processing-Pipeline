@@ -31,8 +31,7 @@ Built a batch ETL pipeline to process and analyze large structured datasets usin
 ---
 
 ## 📊 Dataset
-- CSV dataset with 50K+ records  
-- Fields: video_id, views, likes, comments  
+
 -https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ---
 
